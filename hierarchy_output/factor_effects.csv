@@ -1,0 +1,11 @@
+factor,level,lift_pct
+SNAP benefit day,yes,7.604718
+Special event / holiday,yes,-9.580189
+Price at least 5% below normal,yes,0.18829107
+Day of week,Monday,-6.2087893
+Day of week,Tuesday,-10.793662
+Day of week,Wednesday,-9.941703
+Day of week,Thursday,-9.884423
+Day of week,Friday,0.579381
+Day of week,Saturday,19.836294
+Day of week,Sunday,15.972149

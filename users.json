@@ -1,0 +1,23 @@
+{
+  "owner": {
+    "name": "Store Owner",
+    "role": "owner",
+    "store": null,
+    "salt": "7426699a68870ea46ebd83aaad5245be",
+    "hash": "bc0ec57b1a160ba52d5d2ca39ec09cfd8956c0ecd3ae0e76d7720ad22384ad4d"
+  },
+  "manager_ca1": {
+    "name": "Manager, Store CA_1",
+    "role": "manager",
+    "store": "CA_1",
+    "salt": "26a25a9e4f7e94f58ac2f87d38b29c12",
+    "hash": "610afb8b6a1e4d42a1271f87229d5fc786d0c27e1c6fb80e38a16bdc770328d5"
+  },
+  "manager_tx2": {
+    "name": "Manager, Store TX_2",
+    "role": "manager",
+    "store": "TX_2",
+    "salt": "35109c5f797ec06a470971fef4365220",
+    "hash": "496f53dee4997e3f4495ee7de79ff38187686c10d6b478735ca27a759efecca7"
+  }
+}
