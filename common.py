@@ -42,8 +42,9 @@ html, body, [class*="css"], .stApp { font-family: 'Nunito Sans', sans-serif; col
 .block-container { padding-top: 1.2rem; padding-bottom: 2rem; max-width: 1400px; }
 #MainMenu, footer { visibility: hidden; }
 .stDeployButton { display: none; }
-div[data-testid="stToolbar"] { visibility: hidden; }
+div[data-testid="stToolbarActions"], div[data-testid="stMainMenu"], .stAppDeployButton, [data-testid="stStatusWidget"] { display: none !important; }
 header[data-testid="stHeader"] { background: transparent; }
+[data-testid="stExpandSidebarButton"], [data-testid="stSidebarCollapsedControl"], [data-testid="stSidebarCollapseButton"], [data-testid="collapsedControl"] { visibility: visible !important; display: flex !important; }
 h1, h2, h3, h4 { color: __NAVY__; font-weight: 800; letter-spacing: -0.01em; }
 h3 { font-size: 1.15rem !important; }
 
