@@ -6,7 +6,7 @@ Needs the hierarchy_output folder and users.json next to this file.
 """
 import streamlit as st
 
-st.set_page_config(page_title="Retail Intelligence Platform", layout="wide", page_icon="🛒")
+st.set_page_config(page_title="Retail Intelligence Platform", layout="wide", page_icon="🛒", initial_sidebar_state="expanded")
 
 import auth
 import common
